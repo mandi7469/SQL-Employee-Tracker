@@ -6,7 +6,7 @@
   "name": "employee-tracker",
   "version": "1.0.0",
   "description": "command-line application to manage a company's employee database",
-  "main": "server.js",
+  "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
