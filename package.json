@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.12.0"
+  },
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "command-line application to manage a company's employee database",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mandi7469"
+  },
+  "author": "Amanda Changa",
+  "license": "ISC"
+}
