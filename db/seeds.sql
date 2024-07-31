@@ -1,11 +1,13 @@
 \c employee_tracker_db;
 
+-- inserts department name to the department table
 INSERT INTO department(name)
 VALUES ('General'),
        ('Cardio'),
        ('Neuro'),
        ('Peds');
-      
+
+-- inserts role title, salary, and department_id to the role table
 INSERT INTO role(title, salary, department_id)
 VALUES ('Chief of Surgery', 500000, 1),
         ('General surgery Attending', 200000, 1),
@@ -21,6 +23,7 @@ VALUES ('Chief of Surgery', 500000, 1),
         ('Peds surgery Resident', 99000, 4),
         ('Peds surgery Intern', 40000, 4);
 
+-- inserts first_name, last_name, role_id and manager_id to employee table
 INSERT INTO employee(first_name, last_name, role_id, manager_id)
 VALUES 
         ('Richard', 'Webber', 1, 2),
