@@ -25,11 +25,13 @@ Node.js | Inquirer | PostgreSQL
 
 This application helps non-developers to easily view and interact with information stored in databases
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax: 
+[Walkthrough video link]()
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+The image shows the terminal's apperance when the application is invoked 
+
+![alt text](./assets/images/Screenshot%202024-08-01%20at%204.23.53 PM.png)
+
+
 ## Badges
 
 [![Static Badge](https://img.shields.io/badge/GitHub-mandi7469-green)](https://github.com/mandi7469) [![Static Badge](https://img.shields.io/badge/Postgre-SQL-blue%20)](https://www.postgresql.org/) [![Static Badge](https://img.shields.io/badge/npm_inquirer-8.2.4-orange)](https://www.npmjs.com/package/inquirer#installation) [![Static Badge](https://img.shields.io/badge/Node-JS-darkgreen)](https://nodejs.org/en)
