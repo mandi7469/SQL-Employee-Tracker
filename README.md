@@ -25,7 +25,7 @@ Node.js | Inquirer | PostgreSQL
 
 This application helps non-developers to easily view and interact with information stored in databases
 
-[Walkthrough video link]()
+[Walkthrough video link](https://drive.google.com/file/d/1coPUpQGTgcaYGv6AJaD5MF0DFNtYHn3U/view?usp=sharing)
 
 The image shows the terminal's apperance when the application is invoked 
 
